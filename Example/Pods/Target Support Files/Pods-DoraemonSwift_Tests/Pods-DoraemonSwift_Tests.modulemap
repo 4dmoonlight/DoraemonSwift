@@ -1,0 +1,6 @@
+framework module Pods_DoraemonSwift_Tests {
+  umbrella header "Pods-DoraemonSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module DoraemonSwift {
+  umbrella header "DoraemonSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

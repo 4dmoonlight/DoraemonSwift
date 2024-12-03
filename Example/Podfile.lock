@@ -1,0 +1,16 @@
+PODS:
+  - DoraemonSwift (0.1.0)
+
+DEPENDENCIES:
+  - DoraemonSwift (from `../`)
+
+EXTERNAL SOURCES:
+  DoraemonSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DoraemonSwift: 22bbb81ad2ff2c4ade4803a4dd1c53c103331427
+
+PODFILE CHECKSUM: 0927010b88ad5aca57f2df023e14cf206c7c43f7
+
+COCOAPODS: 1.15.2
